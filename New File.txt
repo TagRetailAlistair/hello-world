@@ -1,6 +1,2 @@
-<<<<<<< HEAD
 New file now updated...
-=======
-New file
 Added to branch old, even more and more
->>>>>>> Branch_Old
